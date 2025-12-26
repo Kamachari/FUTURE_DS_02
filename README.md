@@ -56,7 +56,7 @@ The marketing team needed to optimize their budget but lacked a consolidated vie
 *   **Recommendation:** Refresh ad creatives immediately for high-volume ad sets.
 
 ## 📂 Project Structure
-*   `Facebook_Ads_Analysis.pbix` - The complete Power BI Dashboard file.
+*   `FUTURE_DS_02.pbix` - The complete Power BI Dashboard file.
 *   `Facebook_Ads_Data.csv` - The processed dataset used for analysis.
 *   `Project Presentation.pdf` - Executive summary slides.
 *   `Images/` - Folder containing dashboard screenshots.
