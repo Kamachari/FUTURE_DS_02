@@ -57,7 +57,7 @@ The marketing team needed to optimize their budget but lacked a consolidated vie
 
 ## 📂 Project Structure
 *   `Facebook_Ads_Analysis.pbix` - The complete Power BI Dashboard file.
-*   `Clean_Ads_Data.csv` - The processed dataset used for analysis.
+*   `Facebook_Ads_Data.csv` - The processed dataset used for analysis.
 *   `Project Presentation.pdf` - Executive summary slides.
 *   `Images/` - Folder containing dashboard screenshots.
 
@@ -68,4 +68,4 @@ The marketing team needed to optimize their budget but lacked a consolidated vie
 4.  Use the **Slicers** (Date, Campaign, Gender) to filter the data.
 
 ---
-*Created by [B Kamachari] | Data Analytics Portfolio*
+*Created by B Kamachari| Data Analytics Portfolio*
